@@ -1,0 +1,18 @@
+﻿2021-01-08 19:56:34 INFO  ReportLog:114 - ***** Start LOG4J *****
+2021-01-08 19:56:34 INFO  ReportLog:119 - Caso de Teste: _004Dependentes  |   Colaborador: wellp  |   Browser: chrome  |   Versão: 87.0.4280.88  |   S.O: Windows 10
+2021-01-08 19:56:45 INFO  _004CadastrarEmailValido:47 - Acessa a URL https://lojaonlineclaro.com.br/
+2021-01-08 19:56:45 INFO  _004CadastrarEmailValido:47 - Realiza a ação 'Mouse Scroll' até que o elemento By.xpath: /html/body/app-root/mat-sidenav-container/mat-sidenav-content/div/app-home/app-lead-pickup/div/div/div/form/inputseja visualizado
+2021-01-08 19:56:48 INFO  _004CadastrarEmailValido:47 - Clica no elemento motorola razr
+2021-01-08 19:56:51 INFO  _004CadastrarEmailValido:47 - Preenche o campo de texto Deixe aqui seu E-mail com o valor wellpm@bol.com.br
+2021-01-08 19:57:01 INFO  _004CadastrarEmailValido:47 - Clica no elemento Cadastrar
+2021-01-08 19:57:21 INFO  _004CadastrarEmailValido:126 - ***** End LOG4J *****
+
+2021-01-08 19:59:15 INFO  ReportLog:114 - ***** Start LOG4J *****
+2021-01-08 19:59:15 INFO  ReportLog:119 - Caso de Teste: _004Dependentes  |   Colaborador: wellp  |   Browser: chrome  |   Versão: 87.0.4280.88  |   S.O: Windows 10
+2021-01-08 19:59:26 INFO  _004CadastrarEmailValido:47 - Acessa a URL https://lojaonlineclaro.com.br/
+2021-01-08 19:59:27 INFO  _004CadastrarEmailValido:47 - Realiza a ação 'Mouse Scroll' até que o elemento By.xpath: /html/body/app-root/mat-sidenav-container/mat-sidenav-content/div/app-home/app-lead-pickup/div/div/div/form/inputseja visualizado
+2021-01-08 19:59:30 INFO  _004CadastrarEmailValido:47 - Clica no elemento motorola razr
+2021-01-08 19:59:33 INFO  _004CadastrarEmailValido:47 - Preenche o campo de texto Deixe aqui seu E-mail com o valor wellpm@bol.com.br
+2021-01-08 19:59:46 INFO  _004CadastrarEmailValido:47 - [SUCESSO] Deu Enter no campo By.xpath: //*[@id='button']
+2021-01-08 20:00:06 INFO  _004CadastrarEmailValido:126 - ***** End LOG4J *****
+
